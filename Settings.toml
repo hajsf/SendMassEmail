@@ -1,0 +1,5 @@
+domain = "smtp.gmail.com"
+username = "xxxxxx@gmail.com"
+password = "yyyyyyyy"
+subject = "SSSSSS - Job Inqury"
+attachment = "zzzz.pdf"
